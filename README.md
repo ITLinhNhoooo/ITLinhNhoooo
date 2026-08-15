@@ -2,7 +2,7 @@
 
   # Xin chào, tôi là Trần Tiểu Linh 👋
   
-  ### 💻 Intern Full-stack Developer
+  ### 💻Full-stack Developer
   
   <p align="center">
     <a href="https://github.com/ITLinhNhoooo">
@@ -21,8 +21,8 @@
 ### 👨‍💻 Về bản thân
 
 - 🎓 **Học vấn:** Sinh viên chuyên ngành Công nghệ Thông tin tại Trường Cao đẳng Kinh tế - Kỹ thuật Cần Thơ (2023 - 2026).
-- 🔭 **Định hướng chuyên môn:** Phát triển Full-stack với sự tự tin và kỹ năng nhỉnh hơn về mảng Frontend.
-- 💡 **Kiến trúc & Ngôn ngữ:** Tập trung phát triển nền tảng vững chắc với PHP thuần và tối ưu hóa hệ thống bằng mô hình kiến trúc Module & Action.
+- 🔭 **Định hướng chuyên môn:** Phát triển Full-stack.
+- 💡 **Kiến trúc & Ngôn ngữ:** Tập trung phát triển nền tảng vững chắc với PHP (MVC) và tối ưu hóa hệ thống.
 - 🌱 **Kỹ năng mềm:** Giải quyết vấn đề, thích ứng nhanh với môi trường mới, quản lý thời gian hiệu quả và làm việc nhóm tích cực.
 - 💬 **Ngoại ngữ:** Đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.
 
@@ -64,15 +64,6 @@
 | :--- | :--- | :--- | :--- |
 | **Web Application Quản lý Kho hàng** | PHP thuần, MySQL, HTML/CSS, JS | Ứng dụng số hóa toàn diện quy trình vận hành kho bãi. Tích hợp quản lý danh mục/hàng hóa, hệ thống cảnh báo tồn kho tự động và phân quyền quản trị bảo mật cao. Thiết kế hệ thống theo mô hình Module & Action. | 03/2026 - 05/2026 |
 | **Trang web bán hàng trực tuyến** | PHP thuần, MySQL, JavaScript | Website thương mại điện tử với giao diện UI/UX hiện đại. Xây dựng đầy đủ tính năng: Giỏ hàng, Đặt hàng, Quản lý lịch sử mua hàng và hệ thống quản trị thống kê trực quan (CRUD) tối ưu trải nghiệm. | 01/2026 - 02/2026 |
-
----
-
-### 📊 Thống kê GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITLinhNhoooo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITLinhNhoooo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
